@@ -1,8 +1,8 @@
 # 📁 Projeto Clone BuzzFeed com Angular
 
-Esse projeto foi desenvolvido durante a Formação Angular - [Digital Innovation One](https://www.dio.me/) com o Framework Angular. Consiste na criação de um mini clone da Playstation Store, para colocanmos em prática o aprendizado na formação.
+Esse projeto foi desenvolvido durante a Formação Angular - [Digital Innovation One](https://www.dio.me/) consiste na criação de um mini clone da Playstation Store, desenvolvido para por em prática o que que foi aprendido.
 
- #33 👁 O resultado
+ ### 👁 O resultado
  
 ✨ Imagem do quizz...
 ![localhost_4200_ (1)](https://github.com/IaraTassi/Clone-Playstation-Store/blob/master/store.png)
